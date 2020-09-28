@@ -9,7 +9,7 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>war-success</artifactId>
+    <artifactId>ejb-success</artifactId>
     <packaging>ejb</packaging>
 
 </project>

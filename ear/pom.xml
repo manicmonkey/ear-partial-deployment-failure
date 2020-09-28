@@ -15,13 +15,13 @@
     <dependencies>
         <dependency>
             <groupId>com.jamesbaxter</groupId>
-            <artifactId>war-failure</artifactId>
+            <artifactId>ejb-failure</artifactId>
             <version>1.0-SNAPSHOT</version>
             <type>ejb</type>
         </dependency>
         <dependency>
             <groupId>com.jamesbaxter</groupId>
-            <artifactId>war-success</artifactId>
+            <artifactId>ejb-success</artifactId>
             <version>1.0-SNAPSHOT</version>
             <type>ejb</type>
         </dependency>
